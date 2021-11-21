@@ -155,6 +155,9 @@ body {
 .contact-link:focus {
   fill: currentColor;
 }
+.contacts-link-icon {
+  margin-right: 10px;
+}
 /*------------hero-------------*/
 .herro {
   display: flex;
