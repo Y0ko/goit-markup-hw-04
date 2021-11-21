@@ -44,7 +44,6 @@ body {
   font-size: 14px;
   line-height: 1.2;
   margin: 0;
-  min-width: 1200px;
 }
 .list {
   list-style: none;
@@ -59,8 +58,10 @@ body {
   text-decoration: none;
 }
 .section {
-  padding-top: 94px;
-  padding-bottom: 94px;
+  margin-top: 94px;
+  margin-bottom: 94px;
+  /*padding-top: 94px;
+  padding-bottom: 94px;*/
 }
 .visually-hidden {
   position: absolute;
